@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Clone this repository
+Clone this repository<br/>
 cd timer-app
 run npm install (to download react packages)
 run npm start (to start this project locally)
